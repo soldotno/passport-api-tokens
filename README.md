@@ -1,5 +1,7 @@
 # REST API Tokens With Passport.js and jwt-simple
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/soldotno/passport-api-tokens.svg)](https://greenkeeper.io/)
+
 - Demonstrates how to use auth token to Node.js with Passport.js and jwt-simple which is useful for building a token-based REST API.
 
 ## Disclaimer: Work in progress
